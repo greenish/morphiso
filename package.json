@@ -1,12 +1,28 @@
 {
   "name": "morphiso",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name" : "Philipp Adrian",
     "email" : "hello@philippadrian.com",
     "website" : "philippadrian.com"
   },
-  "description": "Express middleware to transfer state from server to client for isomorphic webdevelopment.",
+  "description": "Express middleware to easily transfer state from server to client for isomorphic web development.",
   
-  "dependencies": {}
+  "dependencies": {
+    "replacestream" : "1.0.2"
+  },
+
+  "keywords" : [
+    "middleware",
+    "express",
+    "react",
+    "flux",
+    "isomorph",
+    "data",
+    "mirror",
+    "client",
+    "server",
+    "state",
+    "transfer"
+  ]
 }
