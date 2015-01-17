@@ -1,0 +1,12 @@
+{
+  "name": "Morphiso",
+  "version": "0.0.1",
+  "author": {
+    "name" : "Philipp Adrian",
+    "email" : "hello@philippadrian.com",
+    "website" : "philippadrian.com"
+  },
+  "description": "Express middleware to transfer state from server to client for isomorphic webdevelopment.",
+  
+  "dependencies": {}
+}
