@@ -14,5 +14,19 @@
   
   "dependencies": {
     "replacestream" : "^1.0.2"
-  }
+  },
+
+  "keywords": [
+    "middleware",
+    "express",
+    "isomorphic",
+    "react",
+    "flux",
+    "mirror",
+    "initial",
+    "state",
+    "transfer",
+    "server",
+    "client"
+  ]
 }
