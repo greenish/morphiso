@@ -1,6 +1,6 @@
 {
   "name": "morphiso",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name" : "Philipp Adrian",
     "email" : "hello@philippadrian.com",
@@ -11,7 +11,7 @@
   "main" : "./morphiso.js",
   
   "dependencies": {
-    "replacestream" : "1.0.2"
+    "replacestream" : "^1.0.2"
   },
 
   "keywords" : [
