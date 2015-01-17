@@ -1,12 +1,14 @@
 {
   "name": "morphiso",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name" : "Philipp Adrian",
     "email" : "hello@philippadrian.com",
     "website" : "philippadrian.com"
   },
   "description": "Express middleware to easily transfer state from server to client for isomorphic web development.",
+  
+  "main" : "./morphiso.js",
   
   "dependencies": {
     "replacestream" : "1.0.2"
